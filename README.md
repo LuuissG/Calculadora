@@ -12,5 +12,5 @@ Java - Linguagem Utilizada
 Calculadora com funções de soma, subtrair, dividir e multiplicação, cada um com definição de cenário e operando as suas funções.
 
 ## Autor
-Luis Gustavo Rodrigues
-RA: 223608
+- Luis Gustavo Rodrigues
+- RA: 223608

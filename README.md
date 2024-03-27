@@ -1,4 +1,5 @@
-![image](https://github.com/LuuissG/Calculadora/assets/128866077/8e96400c-8574-4270-9c3c-500e4f7ead81)
+![image](https://github.com/LuuissG/Calculadora/assets/128866077/d7af03b8-e683-42b6-b2c6-50c427babfed)
+
 # Calculadora
 
 Descrição: Calculadora Teste de Cenários.
